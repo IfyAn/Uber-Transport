@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import Image from 'next/image'
 import tw from 'tailwind-styled-components'
 import { useRouter } from 'next/router'
 import { signInWithPopup, onAuthStateChanged } from 'firebase/auth'

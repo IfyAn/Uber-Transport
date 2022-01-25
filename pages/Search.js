@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import tw from "tailwind-styled-components"
 import Link from 'next/link'
+import Image from 'next/image'
 
 const Search = () => {
 

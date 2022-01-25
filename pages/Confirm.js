@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import tw from "tailwind-styled-components"
+import Image from 'next/image'
 import Map from "./components/Map"
 import { useRouter } from 'next/router';
 import RideSelector from './components/RideSelector'
